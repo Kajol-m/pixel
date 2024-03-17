@@ -1,0 +1,173 @@
+.body-navbar{
+  background-color: #bfc0d9;
+  height:75px;
+}
+.nav-logo{
+  width:60px;
+}
+.nav-btn{
+  background-color: #755985;
+}.nav-menu{
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav-menu a{
+  display: block;
+  margin-left: 15px;
+  font-size: x-large;
+  
+}
+.d-flex button{
+  margin-left:10px;
+  margin-right: 15px;
+}
+.below-nav{
+  height:50px;
+  width:100%;
+  background-color:#cdddc6;
+  text-align: center;
+}
+.home-desc{
+    height:85px;
+    width:100%;
+    background-color: #755985;
+    
+    
+}
+.home-desc p{
+    text-align:center;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+.shop-now{
+    display:flex;
+}
+.sell-body{
+    flex: 8;
+    width:85%;
+    height:400px;
+    display: block;
+    background-color:#f2e4e8;
+}
+.sell-link{
+    flex: 1;
+    width:15%;
+    height:400px;
+    float:right;
+    display: block;
+    background-color: #fcbfa8;
+}
+.vertical-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-weight:600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 30%;
+    margin-top: 25%;
+  }
+  .sell-img{
+    width:200px;
+    
+  }
+  .img-prop{
+    display: block;
+    float:inline-start;
+    margin-top: 2%;
+    margin-left: 8%;
+  }
+  .img-prop p{
+    margin-top: 10%;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    padding-bottom: 5px;
+  }
+
+  .know-products{
+    display: block;
+    
+  }
+  .carousel-img{
+    float:right;
+    width:270px;
+    margin-right: 7%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+  }
+  .carousel-img-title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+  }
+  .carousel-img-desc{
+    font-size: x-large;
+  }
+  .carousel-desc{
+    margin-left:15%;
+    display: block;
+    margin-top: 15%;
+  }
+  .kpci{
+    background-color:#bfc0d9;
+    width:100%;
+    height:500px;
+  }
+
+  /*Games block
+*/
+  .play-games img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    object-fit: contain;
+  }
+  
+
+  .social-desc{
+    height:85px;
+    width:100%;
+    background-color:#f2e4e8;
+    
+    
+}
+.social-desc p{
+    text-align:center;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+}
+
+.body-footer{
+  height:300px;
+  width:100%;
+  display:flex;
+}
+.footer-items{
+  flex:2;
+  background-color: #bfc0d9;
+}
+.footer-items img{
+  width:300px;
+  margin-top: 15px;
+  margin-left: 25px;
+}
+.footer-links{
+  flex:6;
+  background-color: #fcbfa8;
+}
+.footer-links li{
+  list-style-type: none;
+}
+.quick-links{
+  display: block;
+  float: left;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 80px;
+}
+.social-links{
+  display: block;
+  margin-top: 80px;
+}

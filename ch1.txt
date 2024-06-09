@@ -128,6 +128,14 @@ friendship
  15 forinterest ininterests_by_user_id[user["id"]]
  16 forinterested_user_idinuser_ids_by_interest[interest
  ]
+
+
+
+
+
+
+
+https://github.com/joelgrus/data-science-from-scratch/tree/master/scratch
  17 if interested_user_id!=user["id"]
  18 )
 
